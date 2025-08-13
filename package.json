@@ -1,5 +1,5 @@
 {
-  "name": "react-native-a-beep",
+  "name": "@pt-nakul-sharma/react-native-a-beep",
   "version": "1.1.0",
   "description": "A very lite module to play system sounds and beep for react-native apps (no sound files)",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "Triet Ho",
   "license": "FREE",
   "peerDependencies": {
-    "react-native": "^0.69.3"
+    "react-native": ">=0.69.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trietho/react-native-a-beep.git"
+    "url": "https://github.com/pt-nakul-sharma/react-native-a-beep.git"
   }
 }
